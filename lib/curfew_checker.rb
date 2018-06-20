@@ -1,5 +1,8 @@
 def simple_curfew_checker(time)
-  # code goes here
+  if the time is 11pm
+    puts "Head back to common room!"
+  else
+    puts "Not curfew time yet!"
 end
 
 def curfew_checker(time)
